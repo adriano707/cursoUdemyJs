@@ -5,7 +5,6 @@ Entre 18 e 23 horas o sistema fala boa noite
 */
 
 const hora = 34;
-
 if (hora >= 0 && hora <= 11){
     console.log('Bom dia');
     }else if (hora >= 12 && hora <= 17){
